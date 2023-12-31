@@ -1,0 +1,103 @@
+[
+   {
+      "title": "About",
+      "links": [
+         {
+            "name": "About Vividvisage",
+            "path": "/about"
+         },
+         {
+            "name": "Social Media",
+            "path": "/"
+         },
+         {
+            "name": "Careers",
+            "path": "/"
+         },
+         {
+            "name": "Affiliates",
+            "path": "/"
+         },
+         {
+            "name": "Supply Chain",
+            "path": "/"
+         }
+      ]
+   },
+   {
+      "title": "Skincare",
+      "links": [
+         {
+            "name": "Makeup",
+            "path": "/"
+         },
+         {
+            "name": "Skincare",
+            "path": "/"
+         },
+         {
+            "name": "Fragrance",
+            "path": "/"
+         }
+      ]
+   },
+   {
+      "title": "Makeup",
+      "links": [
+         {
+            "name": "Contour",
+            "path": "/"
+         },
+         {
+            "name": "Base",
+            "path": "/"
+         },
+         {
+            "name": "Eye Makeup",
+            "path": "/"
+         },
+         {
+            "name": "Lips",
+            "path": "/"
+         },
+         {
+            "name": "Supply Chain",
+            "path": "/"
+         }
+      ]
+   },
+   {
+      "title": "Supplments",
+      "links": [
+         {
+            "name": "Hair & Nails",
+            "path": "/"
+         },
+         {
+            "name": "Nutrients",
+            "path": "/"
+         },
+         {
+            "name": "Vitamins",
+            "path": "/"
+         }
+      ]
+   },
+   {
+      "title": "Luxury",
+      "links": [
+         {
+            "name": "Makeup",
+            "path": "/"
+         },
+         {
+            "name": "Skincare",
+            "path": "/"
+         },
+         {
+            "name": "Fragrance",
+            "path": "/"
+         }
+      ]
+   }
+]
