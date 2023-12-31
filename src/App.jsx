@@ -3,7 +3,7 @@ import {BrowserRouter, Routes, Route} from "react-router-dom";
 import {Home} from "./pages/Home";
 import {About} from "./pages/About";
 import {Search} from "./pages/Search";
-import {Layout} from "./layout/Layout"
+import {Layout} from "./layout"
 function App() {
    return (
       <Fragment>
