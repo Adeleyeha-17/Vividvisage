@@ -1,3 +1,5 @@
+/* eslint-disable react/prop-types */
+
 import Brandlink from "../BrandLink"
 import {Cart} from "../Icons/Cart"
 import {Heart} from "../Icons/Heart"

@@ -1,3 +1,5 @@
+/* eslint-disable react/prop-types */
+
 import Benefititems from "../Benefititems"
 
 export const Benefits = () => {

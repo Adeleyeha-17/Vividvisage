@@ -1,3 +1,5 @@
+/* eslint-disable react/prop-types */
+
 import BannerImg from "../../assets/skincare.jpg"
 import Buttonlink from "../ButtonLink"
 

@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import ButtonLink from "../ButtonLink";
 import Sectiontitle from "../SectionTitle";
 import { useEffect } from "react";

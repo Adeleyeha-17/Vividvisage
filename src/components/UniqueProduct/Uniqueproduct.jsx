@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import UniqueImg from "../../assets/Skincare with leaf.jpg"
 
 export const Uniqueproduct = () => {
